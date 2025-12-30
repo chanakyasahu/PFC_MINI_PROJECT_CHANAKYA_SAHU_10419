@@ -55,3 +55,11 @@ else{
     return 0;
 
 }
+
+//Output
+/*PS C:\Users\chana\OneDrive\Desktop\C Project> cd "c:\Users\chana\OneDrive\Desktop\C Project\" ; if ($?) { gcc MINI_Project.c -o MINI_Project } ; if ($?) { .\MINI_Project }
+Enter a number : 11
+11 is positive number
+11 is odd number
+11 is a prime number
+PS C:\Users\chana\OneDrive\Desktop\C Project>*/ 
